@@ -1,5 +1,5 @@
 {
-  "name": "makurai theme",
+  "name": "Makurai",
   "version": "0.0.1",
   "description": "just another vscode theme ~",
   "author": "skardy",
@@ -17,17 +17,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "makurai",
+        "label": "Makurai",
         "uiTheme": "vs-dark",
         "path": "./makurai-color-theme.json"
       },
       {
-        "label": "makurai high contrast",
+        "label": "Makurai High Contrast",
         "uiTheme": "vs-dark",
         "path": "./makurai-high-contrast-color-theme.json"
       },
       {
-        "label": "makurai darker",
+        "label": "Makurai Darker",
         "uiTheme": "vs-dark",
         "path": "./makurai-darker-color-theme.json"
       }
