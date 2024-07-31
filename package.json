@@ -1,0 +1,36 @@
+{
+  "name": "makurai theme",
+  "version": "0.0.1",
+  "description": "just another vscode theme ~",
+  "author": "skardy",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Skardyy/makurai-vscode"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "makurai",
+        "uiTheme": "vs-dark",
+        "path": "./makurai-color-theme.json"
+      },
+      {
+        "label": "makurai high contrast",
+        "uiTheme": "vs-dark",
+        "path": "./makurai-high-contrast-color-theme.json"
+      },
+      {
+        "label": "makurai darker",
+        "uiTheme": "vs-dark",
+        "path": "./makurai-darker-color-theme.json"
+      }
+    ]
+  }
+}
