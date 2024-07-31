@@ -32,8 +32,9 @@ and more...
 
 # Screenshots  
 ### Normal  
-![image](https://github.com/user-attachments/assets/c53bcec5-29b4-48f5-b25b-bf405bd4b829)  
+![image](https://github.com/user-attachments/assets/80ef5927-ed25-4340-ad61-782afe0ed7c7)  
 ### High contrast  
-![image](https://github.com/user-attachments/assets/58e3e5ac-4f14-4053-8197-f3c263b0b2f4)  
+![image](https://github.com/user-attachments/assets/82a1fb36-016a-4436-bab5-850b383fa23e)  
 ### Darker  
-![image](https://github.com/user-attachments/assets/f149830e-6201-4982-9722-a9d60afa8549)
+![image](https://github.com/user-attachments/assets/1ecdffa3-923d-47ad-a3f7-ef9552c0ec48)  
+
