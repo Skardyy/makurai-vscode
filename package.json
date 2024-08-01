@@ -1,6 +1,6 @@
 {
   "name": "Makurai",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "just another vscode theme ~",
   "author": "skardy",
   "license": "MIT",
@@ -11,6 +11,7 @@
     "type": "git",
     "url": "https://github.com/Skardyy/makurai-vscode"
   },
+  "icon": "makurai.png",
   "categories": [
     "Themes"
   ],
