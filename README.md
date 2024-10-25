@@ -8,8 +8,8 @@ just another vscode theme ~ a minimal theme done right
    * types (not namespaces or modules)
 3. for some highlights uses colors that are weak and barely noticable, yet distinct enough to not blend in
 
-# Vim Version  
-you can find the vim version of the theme [here](https://github.com/Skardyy/makurai-vim)  
+# Neovim Version  
+you can find the vim version of the theme [here](https://github.com/Skardyy/makurai-nvim)  
 
 # Colors  
 background = #08090d  
