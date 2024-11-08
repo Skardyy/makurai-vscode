@@ -158,6 +158,49 @@
       "settings": {
         "foreground": "#ff7733"
       }
+    },
+    {
+      "name": "markup_green",
+      "scope": ["markup.inline.raw",
+        "punctuation.definition.markdown",
+        "markup.fenced_code.block.markdown",
+        "punctuation.definition.quote.begin.markdown",
+        "markup.quote.markdown",
+        "meta.image.inline",
+        "meta.link.inline",
+        "punctuation.definition.raw.markdown"
+      ],
+      "settings": {
+        "foreground": "#95fb79"
+      }
+    },
+    {
+      "name": "markup_cyan",
+      "scope": ["markup.underline.link", "punctuation.definition.metadata.markdown"],
+      "settings": {
+        "foreground": "#39bae6"
+      }
+    },
+    {
+      "name": "markup_blue",
+      "scope": ["string.other.link.description.markdown", "punctuation.definition.link.description.end.markdown", "punctuation.definition.link.title.end.markdown", "punctuation.definition.link.title.begin.markdown", "punctuation.definition.link.description.begin.markdown", "string.other.link.title.markdown"],
+      "settings": {
+        "foreground": "#82aaff"
+      }
+    },
+    {
+      "name": "markup_yellow",
+      "scope": ["punctuation.definition.quote.begin.markdown", "punctuation.definition.list.begin.markdown"],
+      "settings": {
+        "foreground": "#ffee99"
+      }
+    },
+    {
+      "name": "markup_orange",
+      "scope": ["markup.heading", "punctuation.definition.heading.markdown"],
+      "settings": {
+        "foreground": "#ff7733"
+      }
     }
   ],
   "colors": {
