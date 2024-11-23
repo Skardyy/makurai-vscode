@@ -1,6 +1,6 @@
 # Makurai Theme
 A dark vscode theme  
-![link for more ports of the theme](https://github.com/Skardyy/makurai-theme)
+[link for more ports of the theme](https://github.com/Skardyy/makurai-theme)
 
 
 ### Normal  
